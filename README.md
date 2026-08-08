@@ -21,9 +21,10 @@ PCB
 
 <img width="824" height="635" alt="Screenshot 2026-08-07 142941" src="https://github.com/user-attachments/assets/256c93a0-80ac-4e9f-b460-c00713ab1658" />
 
+I Made three push buttons (GP0, GP1, GP10) for custom keypresses and a rotary encoder (GP3, GP5) for smooth volume control. It also drives an OLED display (GP7, GP8) to show Volume.
 
 Status
 - [x] Creating Schematic
 - [x] Creating PCB 
 - [x] 3D Modeling & Enclosure Design (Onshape)
-- [ ] Firmware Development
+- [x] Firmware Development
