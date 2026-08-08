@@ -1,11 +1,11 @@
 # Hackpad
-A custom-designed macro controller featuring MX switches, custom keycaps, an OLED display, a rotary knob, and engraved Omori artwork. Built for Hack Club Stardance.
+A custom designed macro controller featuring MX switches, custom keycaps, an OLED display, a rotary knob, and engraved Omori artwork. Built for Hack Club Stardance.
 
 Features
- Brain: ESP32 WROOM 32
- Controls: 3x MX Mechanical Switches with custom keycaps (<-, Home, ->), 1x Rotary Encoder
- Display: OLED screen
- Case: Designed in Onshape with custom Omori lamp engraving
+ - Brain: ESP32 WROOM 32
+ - Controls: 3x MX Mechanical Switches with custom keycaps (<-, Home, ->), 1x Rotary Encoder
+ - Display: OLED screen
+ - Case: Designed in Onshape with custom Omori lamp engraving
 
 Preview
 
