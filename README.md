@@ -3,7 +3,7 @@ A custom-designed macro controller featuring MX switches, custom keycaps, an OLE
 
 Features
 - Brain: ESP32 WROOM 32
-- Controls: 3x MX Mechanical Switches with custom 3D-printed keycaps (<-, Home, ->), 1x Rotary Encoder / Potentiometer
+- Controls: 3x MX Mechanical Switches with custom keycaps (<-, Home, ->), 1x Rotary Encoder
 - Display: OLED screen
 - Case: Designed in Onshape with custom Omori lamp engraving
 
