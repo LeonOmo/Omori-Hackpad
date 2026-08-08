@@ -11,7 +11,7 @@ ifeq ($(filter $(NVM_DRIVER),$(VALID_NVM_DRIVERS)),)
     $(call CATASTROPHIC_ERROR,Invalid NVM_DRIVER,NVM_DRIVER="$(NVM_DRIVER)" is not a valid NVM driver)
 else
 
-    # If we don't want one, fake it with transient eeprom.
+
     ifeq ($(NVM_DRIVER),none)
         NVM_DRIVER := eeprom
         EEPROM_DRIVER := transient
