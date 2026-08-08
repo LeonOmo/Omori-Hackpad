@@ -1,4 +1,4 @@
-# Omori-Hackpad
+# Hackpad
 A custom-designed macro controller featuring MX switches, custom keycaps, an OLED display, a rotary knob, and engraved Omori artwork. Built for Hack Club Stardance.
 
 Features
