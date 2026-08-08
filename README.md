@@ -28,3 +28,5 @@ Status
 - [x] Creating PCB 
 - [x] 3D Modeling & Enclosure Design (Onshape)
 - [x] Firmware Development
+
+Im finished with this Project
