@@ -29,4 +29,4 @@ Status
 - [x] 3D Modeling & Enclosure Design (Onshape)
 - [x] Firmware Development
 
-Im finished with this Project
+Im sorry for not reading it properly
