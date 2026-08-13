@@ -3,9 +3,9 @@ A custom designed macro controller featuring MX switches, custom keycaps, an OLE
 
 Features
  - Brain: ESP32 WROOM 32
- - Controls: 3x MX Mechanical Switches with custom keycaps (<-, Home, ->), 1x Rotary Encoder
+ - Controls: 3x MX Mechanical Switches, 1x Rotary Encoder
  - Display: OLED screen
- - Case: Designed in Onshape with custom Omori lamp engraving
+ - Case: Designed in Onshape
 
 Preview
 
@@ -21,7 +21,7 @@ PCB
 
 <img width="824" height="635" alt="Screenshot 2026-08-07 142941" src="https://github.com/user-attachments/assets/256c93a0-80ac-4e9f-b460-c00713ab1658" />
 
-I Made three push buttons (GP0, GP1, GP10) for custom keypresses and a rotary encoder (GP3, GP5) for smooth volume control. It also has an OLED display (GP7, GP8) to show Volume.
+I Made three push buttons (GP0, GP1, GP10) for custom keypresses and a rotary encoder (GP3, GP5) for volume control. It also has an OLED display (GP7, GP8) to show Volume.
 
 Status
 - [x] Creating Schematic
